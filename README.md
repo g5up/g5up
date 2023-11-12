@@ -7,7 +7,7 @@
 
 - <b>Configure Email Notification on S3 Bucket Event</b>
   - [Configure Email Notification on S3 Bucket Event![image](https://github.com/g5up/g5up/assets/150410296/7912745f-0b0c-46f4-bb2a-796014498c59)
-)](https://github.com/g5up/Configure-Email-Notification-on-S3-Bucket-Event/tree/main)
+](https://github.com/g5up/Configure-Email-Notification-on-S3-Bucket-Event/tree/main)
 
 - <b>Create a static website using Amazon S3</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
